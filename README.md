@@ -49,11 +49,6 @@ SaaS / Business Apps
         Data Warehouse
 ```
 
-## Status
-
-**Started:** October 2026  
-**Format:** 2-day intensive learning sprint + ongoing portfolio project
-
 ## Practical principle
 
 > Understand the architecture first. Use the code to prove the architecture.
